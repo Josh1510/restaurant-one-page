@@ -1,0 +1,36 @@
+{
+  "Burgers": [
+    {
+      "Cheese Burger": [
+        { "description": "patty, cheese, onion, pickles, tomato sauce" },
+        { "price": 4.99 }
+      ]
+    },
+    {
+      "Big Mac": [
+        { "description": "2x patty, cheese, lettuce, onion, tomato" },
+        { "price": 6.99 }
+      ]
+    }
+  ],
+  "Pizzas": [
+    {
+      "Cheese": [
+        { "description": "tomato base, cheeseeeee" },
+        { "price": 8.99 }
+      ]
+    },
+    {
+      "Pepperoni": [
+        { "description": "tomato base, cheese, pepperoni" },
+        { "price": 9.49 }
+      ]
+    },
+    {
+      "Hawaiian": [
+        { "description": "tomato base, cheese, ham, pineapple" },
+        { "price": 9.99 }
+      ]
+    }
+  ]
+}

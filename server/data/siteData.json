@@ -1,0 +1,55 @@
+{
+  "headerData": {
+    "restaurantName": "Hello",
+    "image": "../assets/HeroImage.jpg"
+  },
+  "reserveData": {
+    "rid": "59375",
+    "style": "wide"
+  },
+  "contactData": {
+    "address": "123 Fake Street, Melbourne",
+    "phone": "03 5555 4333",
+    "email": "hello@restaurant.com"
+  },
+  "hoursData": [
+    {
+      "days": [
+        [
+          "Monday",
+          true
+        ],
+        [
+          "Tuesday",
+          true
+        ],
+        [
+          "Wednesday",
+          false
+        ],
+        [
+          "Thursday",
+          true
+        ],
+        [
+          "Friday",
+          true
+        ],
+        [
+          "Saturday",
+          false
+        ],
+        [
+          "Sunday",
+          false
+        ]
+      ],
+      "times": [
+        [
+          "00:45",
+          "12:00"
+        ]
+      ]
+    }
+  ]
+}

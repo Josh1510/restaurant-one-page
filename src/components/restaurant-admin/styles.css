@@ -1,0 +1,15 @@
+.MuiCardHeader-root {
+  display: 'block';
+  overflow: 'hidden';
+  display: '-webkit-box';
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: 'vertical';
+}
+
+.MuiCardHeader-title {
+  display: 'block';
+  overflow: 'hidden';
+  display: '-webkit-box';
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: 'vertical';
+}
